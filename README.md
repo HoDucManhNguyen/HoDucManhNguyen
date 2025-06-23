@@ -10,6 +10,9 @@ I'm **Manh Nguyen**, a dedicated Computer Science student at the University of I
 ## Projects
 
 Here are some of the notable projects I've worked on:
+### [Voice Interactive Responsicve Assistant](https://github.com/HoDucManhNguyen/Voice-Interactive-Responsive-Assistant)
+
+VIRA (Voice Interactive Responsive Assistant) is a voice-controlled AI assistant that enables users to interact with OpenAI's language models through natural speech for real-time, hands-free support. Designed for accessibility, productivity, and automation, it converts voice to text, processes queries with GPT, and responds audibly, making AI more inclusive and efficient across various environments.
 
 ### [AgriHub](https://github.com/HoDucManhNguyen/AgriHub-Farming-Sustainability-SparkHacksUIC2025)
 
