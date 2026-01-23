@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Manh Nguyen**, a dedicated Computer Science student at the University of Illinois Chicago (UIC), maintaining a 4.0 GPA and expected to graduate in May 2027. My passion lies in full-stack web development and artificial intelligence, and I'm currently honing my skills as a Development Engineering Intern at Legacy Agencies.
+I'm **Manh Nguyen**, a dedicated Statistics student at the University of Illinois Urbana-Champaign (U of I), maintaining a 3.77 GPA and expected to graduate in December 2027. My passion lies in full-stack web development and artificial intelligence, and I'm currently honing my skills as a Development Engineering Intern at Legacy Agencies.
 
 ## Skills
 
@@ -37,6 +37,19 @@ An assignment focused on designing static webpages utilizing validated HTML and 
 Building upon Part 1, this project incorporates server-side programming using PHP and MySQL to create dynamic content and manage user interactions effectively.
 
 ## Experience
+
+**Engineering Success Program Mentor**  
+*UIC College of Engineering, Chicago, IL* (August 2025 – December 2025)
+
+- Tutored and academically advised 40+ engineering students weekly, clarifying complex concepts and guiding them in applying classroom knowledge to real-world projects.
+- Collaborated with professors to create targeted learning plans, resulting in a 15% improvement in project quality and course pass rates among at-risk students.
+
+**Data Analyst - Launchpad Program**  
+*Capital One, McLean, VA* (July 2025 – November 2025)
+
+- Queried and analyzed large-scale profitability, utilization, and risk datasets using SQL and Excel, modeling break-even thresholds and 200K+ booking scenarios to evaluate product scalability.
+- Proposed launching the $10K wellness-focused credit card, projected to generate $12M in annual profit at 50% utilization while reducing charge-off risk by expanding eligibility to broader Super Prime segment.
+
 
 **Development Engineering Intern**  
 *Legacy Agencies* (January 2025 – Present)
