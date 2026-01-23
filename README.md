@@ -64,9 +64,9 @@ Building upon Part 1, this project incorporates server-side programming using PH
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
-*University of Illinois Chicago* (Expected Graduation: May 2027)  
-GPA: 4.0/4.0
+**Bachelor of Science in Statistics**  
+*University of Illinois Urbana-Champaign* (Expected Graduation: December 2027)  
+GPA: 3.77/4.0
 
 ## Involvement
 
