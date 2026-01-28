@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Manh Nguyen**, a dedicated Statistics student at the University of Illinois Urbana-Champaign (U of I), minor in Computer Science, maintaining a 3.77 GPA and expected to graduate in December 2027. My passion lies in full-stack web development and artificial intelligence, and I have experience working in tech industry for Capital One, Legacy Agencies.
+I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (U of I), minor in **Computer Science**, maintaining a 3.77 GPA and expected to graduate in **December 2027**. My passion lies in full-stack web development and artificial intelligence, and I have experience working in tech industry for **Capital One, Legacy Agencies**.
 
 ## Skills
 
