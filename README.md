@@ -1,85 +1,51 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (U of I), minor in **Computer Science**, maintaining a 3.77 GPA and expected to graduate in **December 2027**. My passion lies in full-stack web development and artificial intelligence, and I have experience working in tech industry for **Capital One, Legacy Agencies**.
+I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (UIUC), maintaining a **3.82 GPA** and expected to graduate in **December 2027**. My passion lies in **applied artificial intelligence, Large Language Models (LLMs), and statistical modeling**. I have hands-on experience building AI data pipelines and agentic AI solutions, bridging the gap between theoretical statistics and real-world domain problems.
 
-## Skills
+## 🛠 Skills
 
-- **Programming Languages:** Python, SQL, R, C++, HTML/CSS, JavaScript, PHP
-- **Tools & Technologies:** Microsoft Excel, Google Data Studio, MySQL, Git
+- **Programming:** Python, R, Java, C/C++, SQL, HTML/CSS, JavaScript
+- **Data Science & AI:** Large Language Models (OpenAI API, Agentic AI, Prompt Engineering), Machine Learning Algorithms, Data Modeling, Pandas, NumPy, Scikit-learn
+- **Tools & Cloud:** AWS (S3, RDS, Lambda, EC2), Google BigQuery, Docker, Git, Tableau, MySQL
+- **Certifications:** AWS Certified Cloud Practitioner (CLF-C02), Google Data Analytics Professional
 
-## Projects
+## 🔬 Academic & Research Experience
 
-Here are some of the notable projects I've worked on:
+**Undergraduate Researcher (LLM in Public Health)** *Advisor: Dr. Tiwari | Champaign-Urbana Public Health District (CUPHD)* (May 2026 – Present)
+- Developing and fine-tuning LLMs to automate and optimize the drafting of public health accreditation documents.
+- **Impending Publication:** First/Second author on an upcoming research paper regarding "Evidence to Accreditation: Using LLMs for Automated Evidence-Grounded Drafting."
 
-### [Data Science Salary Explorer](https://github.com/HoDucManhNguyen/Data-Science-Salary-Explorer)
+**Research Analyst** *Discovery Partners Institute (DPI)* (May 2026 – Present)
+- Collaborating within a strategic tech and business ecosystem to analyze large-scale datasets and build robust AI-driven data pipelines.
 
-Data Science Salary Explorer is an Excel-based interactive dashboard that allows users to explore, filter, and analyze global salary data for data-related job roles based on location, job title, employment type, and platform. It offers a clean, structured dataset with tools like a salary calculator and summary sheets to support career planning, hiring strategies, and market analysis.
+**Undergraduate Researcher (InsureLLM)** *Illinois Risk Lab (IRisk Lab) | Advisor: Prof. Frank Quan* (Upcoming: Fall 2026)
+- Selected to engineer a domain-adapted LLM focusing on numerical reasoning and complex actuarial calculations for financial risk mitigation.
 
+## 💼 Professional Experience
 
-### [Voice Interactive Responsicve Assistant](https://github.com/HoDucManhNguyen/Voice-Interactive-Responsive-Assistant)
+**Data Analyst - Launchpad Program** *Capital One, McLean, VA* (July 2025 – November 2025)
+- Analyzed large-scale profitability and risk datasets using SQL and Excel, modeling break-even thresholds and 200K+ booking scenarios.
+- Proposed a $10K wellness-focused credit card, projected to generate $12M in annual profit while reducing charge-off risk.
 
-VIRA (Voice Interactive Responsive Assistant) is a voice-controlled AI assistant that enables users to interact with OpenAI's language models through natural speech for real-time, hands-free support. Designed for accessibility, productivity, and automation, it converts voice to text, processes queries with GPT, and responds audibly, making AI more inclusive and efficient across various environments.
+**Development Engineering Intern** *Legacy Agencies, Oak Brook, IL* (January 2025 – May 2025)
+- Built and optimized internal tools and client-facing healthcare dashboards, reducing manual data processing time by 40%.
 
-### [AgriHub](https://github.com/HoDucManhNguyen/AgriHub-Farming-Sustainability-SparkHacksUIC2025)
+## 🚀 Advanced AI & Computing Projects
 
-Developed during SparkHacksUIC2025, AgriHub is an AI-powered platform designed to connect farmers with technology for sustainable farming. It offers features like AI-driven crop recommendations based on geospatial data and provides farming insights to enhance productivity. The project utilizes a full-stack application with Node.js, Express.js, and integrates OpenAI APIs. 
+### [VIRA - Voice Interactive Responsive Assistant](https://github.com/HoDucManhNguyen/Voice-Interactive-Responsive-Assistant)
+A real-time, voice-controlled AI assistant developed in Python. It integrates the OpenAI GPT API for intelligent, context-aware responses and Google's Speech Recognition API for live transcription, featuring a continuous listening loop and TTS engine for seamless accessibility.
 
-### [Dreamy Coffee Website Project](https://github.com/HoDucManhNguyen/Dreamy-Coffee-Website-Project)
+### [AgriHub | Farming for Sustainability](https://github.com/HoDucManhNguyen/AgriHub-Farming-Sustainability-SparkHacksUIC2025)
+An AI-powered crop recommendation system leveraging OpenAI APIs, geospatial data, and Machine Learning to improve yield predictions. Built as a high-performance full-stack web application (Node.js, Express.js) to deliver actionable agricultural insights.
 
-This individual assignment showcases a responsive cafe website built using HTML5, CSS3, and JavaScript. It includes features such as user registration and online ordering, aiming to enhance the user experience for a fictional cafe.
+## 🎓 Education
 
-### [Chrono Website Part 1](https://github.com/HoDucManhNguyen/Chrono-Website-Part-1)
+**Bachelor of Science in Statistics** *University of Illinois Urbana-Champaign (UIUC)* (Expected Graduation: December 2027)  
+- **Overall Cumulative GPA:** 3.82/4.0
+- **Relevant Coursework:** Introduction to Higher Mathematics (MATH 314), Data Science Programming Methods (STAT 447), Probability (STAT 400), Applied Linear Algebra (MATH 415), System Programming (CS 341), Data Science Discovery (STAT 107).
 
-An assignment focused on designing static webpages utilizing validated HTML and CSS. The project emphasizes keeping HTML content and CSS presentation separate, deploying the webpages on a Unix/Apache server. 
+## 📫 Contact
 
-### [Chrono Website Part 2](https://github.com/HoDucManhNguyen/Chrono-Website-Part-2)
-
-Building upon Part 1, this project incorporates server-side programming using PHP and MySQL to create dynamic content and manage user interactions effectively.
-
-## Experience
-
-**Engineering Success Program Mentor**  
-*UIC College of Engineering, Chicago, IL* (August 2025 – December 2025)
-
-- Tutored and academically advised 40+ engineering students weekly, clarifying complex concepts and guiding them in applying classroom knowledge to real-world projects.
-- Collaborated with professors to create targeted learning plans, resulting in a 15% improvement in project quality and course pass rates among at-risk students.
-
-**Data Analyst - Launchpad Program**  
-*Capital One, McLean, VA* (July 2025 – November 2025)
-
-- Queried and analyzed large-scale profitability, utilization, and risk datasets using SQL and Excel, modeling break-even thresholds and 200K+ booking scenarios to evaluate product scalability.
-- Proposed launching the $10K wellness-focused credit card, projected to generate $12M in annual profit at 50% utilization while reducing charge-off risk by expanding eligibility to broader Super Prime segment.
-
-
-**Development Engineering Intern**  
-*Legacy Agencies* (January 2025 – Present)
-
-- Assist in full-stack web development projects, collaborating with cross-functional teams to deliver innovative web-based solutions.
-- Contribute to the development of dashboards and data visualization tools using technologies such as HTML, CSS, JavaScript, PHP, MySQL, WordPress, and Git.
-
-**Help Desk Assistant**  
-*UIC Student Center* (September 2024 – January 2025)
-
-- Managed logs and provided troubleshooting assistance to ensure smooth operations within the student center.
-
-## Education
-
-**Bachelor of Science in Statistics**  
-*University of Illinois Urbana-Champaign* (Expected Graduation: December 2027)  
-GPA: 3.77/4.0
-
-## Involvement
-
-**Association for Computing Machinery (ACM) at UIC**
-
-- **Website Developer:** Contributed to the development and maintenance of the ACM chapter's website, ensuring up-to-date information and resources for members.
-- **AI & Game Member:** Participated in AI and game development projects, collaborating with peers to explore innovative solutions.
-- **Mentor:** Provided guidance and support to junior members, fostering a collaborative learning environment.
-
-## Contact
-
-- **Email:** [manhnhd.vn@mail.com](mailto:manhnhd.vn@mail.com)
-- **LinkedIn:** [linkedin.com/in/harrny/](https://www.linkedin.com/in/harrny/)
-- **GitHub:** [github.com/HoDucManhNguyen](https://github.com/HoDucManhNguyen)
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me for any collaboration opportunities or inquiries.
+- **Email:** manhnhd.vn@gmail.com
+- **LinkedIn:** [linkedin.com/in/harrryy](https://www.linkedin.com/in/manhnguyen22)
+- **GitHub:** [github.com/HoDuc](https://github.com/HoDucManhNguyen)
