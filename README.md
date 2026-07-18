@@ -18,8 +18,6 @@ I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Ill
 **Research Analyst** *Discovery Partners Institute (DPI)* (May 2026 – Present)
 - Collaborating within a strategic tech and business ecosystem to analyze large-scale datasets and build robust AI-driven data pipelines.
 
-**Undergraduate Researcher (InsureLLM)** *Illinois Risk Lab (IRisk Lab) | Advisor: Prof. Frank Quan* (Upcoming: Fall 2026)
-- Selected to engineer a domain-adapted LLM focusing on numerical reasoning and complex actuarial calculations for financial risk mitigation.
 
 ## 💼 Professional Experience
 
