@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (UIUC), maintaining a **3.82 GPA** and expected to graduate in **December 2027**. My passion lies in **applied artificial intelligence, Large Language Models (LLMs), and statistical modeling**. I have hands-on experience building AI data pipelines and agentic AI solutions, bridging the gap between theoretical statistics and real-world domain problems.
+I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (UIUC), maintaining a **3.82 GPA** and expected to graduate in **May 2027**. My passion lies in **applied artificial intelligence, Large Language Models (LLMs), and statistical modeling**. I have hands-on experience building AI data pipelines and agentic AI solutions, bridging the gap between theoretical statistics and real-world domain problems.
 
 ## 🛠 Skills
 
