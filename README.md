@@ -2,7 +2,7 @@
 
 
 
-I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (U of I), minor in **Computer Science**, maintaining a 3.77 GPA and expected to graduate in **December 2027**. My passion lies in full-stack web development and artificial intelligence, and I have experience working in tech industry for **Capital One, Legacy Agencies**.
+I'm **Manh Nguyen**, a dedicated **Statistics** student at the University of Illinois Urbana-Champaign (U of I), minor in **Computer Science**, maintaining a 3.82 GPA and expected to graduate in **May 2027**. My passion lies in full-stack web development and artificial intelligence, and I have experience working in tech industry for **Capital One, Legacy Agencies**.
 
 
 
@@ -132,9 +132,9 @@ Building upon Part 1, this project incorporates server-side programming using PH
 
 **Bachelor of Science in Statistics**  
 
-*University of Illinois Urbana-Champaign* (Expected Graduation: December 2027)  
+*University of Illinois Urbana-Champaign* (Expected Graduation: May 2027)  
 
-GPA: 3.77/4.0
+GPA: 3.82/4.0
 
 
 
@@ -160,7 +160,7 @@ GPA: 3.77/4.0
 
 - **Email:** [manhnhd.vn@mail.com](mailto:manhnhd.vn@mail.com)
 
-- **LinkedIn:** [linkedin.com/in/harrny/](https://www.linkedin.com/in/harrny/)
+- **LinkedIn:** [linkedin.com/in/harrny/](https://www.linkedin.com/in/manhnguyen22/)
 
 - **GitHub:** [github.com/HoDucManhNguyen](https://github.com/HoDucManhNguyen)
 
